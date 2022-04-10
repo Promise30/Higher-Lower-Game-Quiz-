@@ -1,0 +1,2 @@
+The Higher Lower game is a game that serves as a quiz. When the program runs, the user is given two random Instagram account names and is prompted to guess which of them
+has the higher instagram followers. The game continues as long as the user keeps getting the correct answers and stop immediately the user picks a wrong option.
